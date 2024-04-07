@@ -1,0 +1,18 @@
+h1{
+    width: 315px;
+    height: 72px;
+    top: 143px;
+    left: 188px;
+    font-size: 48px;
+    font-weight: 800;
+}
+p{
+    width: 975px;
+    height: 72px;
+    top: 220px;
+    left: 188px;
+    font-weight: 600;
+    color: #5A5959;
+    font-size: 16px;
+    line-height: 24px;
+}

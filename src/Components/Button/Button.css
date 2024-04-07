@@ -1,0 +1,30 @@
+.primary-btn {
+  padding: 15px 9px;
+  background-color: black;
+  color: white;
+  min-width: 220px;
+  display: flex;
+  flex-direction: row;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.outline-btn {
+  padding: 18px 10px;
+  border: 1px solid black;
+  color: rgb(0, 0, 0);
+  min-width: 220px;
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
